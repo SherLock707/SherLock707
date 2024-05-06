@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🚀 Outside of coding, you might find me exploring the latest trends in tech, reading up on software architecture patterns, or diving into the world of digital art. I'm always on the lookout for new inspirations and opportunities to learn.
 
-📫 Feel free to connect with me here on GitHub or reach out via [insert preferred contact method]. Let's connect, collaborate, and build something amazing!
+📫 Feel free to connect with me here on GitHub. Let's connect, collaborate, and build something amazing!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SherLock707&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
