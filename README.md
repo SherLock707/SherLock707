@@ -1,23 +1,23 @@
 ### 👋 Hi, I'm SherLock707
 
-🔍 AI Engineer passionate about building real-world machine learning systems—from low-latency computer vision pipelines to cutting-edge GenAI applications.
+🔍 AI Engineer focused on building practical, high-impact systems at the edge of Computer Vision, Generative AI, and Agentic AI.
 
 ---
 
-🧠 I work at the intersection of ML infrastructure, agentic LLM systems, and simulation-driven evaluation. My projects often involve:  
-- Deploying CV models with sensor fusion (e.g., ToF + vision)  
-- Prototyping RAG-based recommendation systems using LLMs and vector databases  
-- Simulating complex environments to stress-test AI pipelines  
-- Building tools for scraping, upscaling, and visual fidelity in GenAI workflows  
+🧠 I work at the intersection of real-time perception and reasoning. My recent projects explore:
+- Deploying CV models with sensor fusion (e.g., ToF + vision) for dynamic environment understanding  
+- Prototyping agentic LLM systems with RAG and vector search for contextual recommendations  
+- Simulating complex retail and interactive environments to evaluate AI robustness  
+- Enhancing GenAI workflows with custom pipelines for scraping, upscaling, and high-fidelity synthesis  
 
-💡 You'll find a mix of experimental repos, personal utilities, and open-source work related to ML, computer vision, automation, and local-first AI tooling.
+💡 I build tools and systems that make AI more grounded, interactive, and production-ready.
 
-🚀 Always exploring how to push intelligent systems from prototype to production.  
-🛠️ Tinkering with LangChain, Diffusers, LLaMA-family models, ONNX/TensorRT, and more.  
-🌍 Advocate for accessible, local-first AI solutions.  
-❤️ Big believer in FOSS and the power of open-source collaboration.
+🚀 Always experimenting with the latest in LLMs, diffusion models, and CV architectures.  
+🛠️ Working with LangChain, Diffusers, ONNX, TensorRT, and local-first tools like Ollama & ComfyUI  
+🌍 Advocate for accessible, open-source, privacy-respecting AI stacks.  
+❤️ I love FOSS and contribute where I can.
 
-🖥️ Outside of AI, I’m into Linux customization and ricing—crafting a sleek, efficient desktop environment that reflects my personal style and workflow.
+🖥️ Also into Linux ricing—customizing and refining my desktop for speed, minimalism, and aesthetics.
 
 ---
 
