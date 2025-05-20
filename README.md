@@ -21,7 +21,7 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SherLock707&theme=catppuccin-mocha&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SherLock707&theme=catppuccin-mocha&border_radius=4.9&card_width=700&card_height=200)](https://git.io/streak-stats)
 
 ---
 
