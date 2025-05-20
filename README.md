@@ -20,8 +20,7 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SherLock707&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SherLock707&theme=catppuccin-mocha&card_width=500)](https://git.io/streak-stats)
 
 ---
 
