@@ -26,7 +26,7 @@
 ---
 
 <h2> 🚀 &nbsp;💻 Tech Stack:</h2>
-<p align="left">
+<!-- <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"cppdth="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c"cppdth="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"cppdth="45" height="45"/>
@@ -60,8 +60,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"cppdth="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="gimp"cppdth="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="inkscape"cppdth="45" height="45"/>
-  
-</p>
+</p> -->
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,py,pycharm,git,github,docker,vscode,linux,bash,ubuntu,cmake,cpp,c,flask,fastapi,postgres,mysql,sqlite,mongodb,githubactions,gitlab,selenium,react,html,css,javascript,nodejs,npm,tailwind,bootstrap,sass,latex,vim,neovim,sublime,vscode,vscodium,androidstudio,java,kotlin,flutter,nuxtjs,graphql,qt,materialui,gtk,blender,arduino,azure,terraform,prometheus,grafana,sentry,jenkins,postman,svg,htmx,less,nix,mint,debian,arch,kali,lua,md,obsidian,gmail,linkedin,stackoverflow,discord,fediverse,mastodon,apple,ipfs)](https://skillicons.dev)
 
 ---
 
