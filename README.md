@@ -7,7 +7,6 @@
 🧠 I work at the intersection of real-time perception and reasoning. My recent projects explore:
 - Deploying CV models with sensor fusion (e.g., ToF + vision) for dynamic environment understanding  
 - Prototyping agentic LLM systems with RAG and vector search for contextual recommendations  
-- Simulating complex retail and interactive environments to evaluate AI robustness  
 - Enhancing GenAI workflows with custom pipelines for scraping, upscaling, and high-fidelity synthesis  
 
 💡 I build tools and systems that make AI more grounded, interactive, and production-ready.
