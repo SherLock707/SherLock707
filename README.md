@@ -1,22 +1,25 @@
-### 👋 Hi, I'm SherLock707
+## SherLock707
 
-🔍 AI Engineer focused on building practical, high-impact systems at the edge of Computer Vision, Generative AI, and Agentic AI.
+### 🤔 Who am I?
 
----
+I like building AI systems and clever problem solving. When I'm not coding, you'll find me lost in environmental puzzle platformers and metroidvania games.
 
-🧠 I work at the intersection of real-time perception and reasoning. My recent projects explore:
-- Deploying CV models with sensor fusion (e.g., ToF + vision) for dynamic environment understanding  
-- Prototyping agentic LLM systems with RAG and vector search for contextual recommendations  
-- Enhancing GenAI workflows with custom pipelines for scraping, upscaling, and high-fidelity synthesis  
+### 🔨 What do I do?
 
-💡 I build tools and systems that make AI more grounded, interactive, and production-ready.
+Been working with computer vision, generative models, and agent systems. I build things from scratch when I can, mostly because I want to understand how they actually work.
 
-🚀 Always experimenting with the latest in LLMs, diffusion models, and CV architectures.  
-🛠️ Working with LangChain, Diffusers, ONNX, TensorRT, and local-first tools like Ollama & ComfyUI  
-🌍 Advocate for accessible, open-source, privacy-respecting AI stacks.  
-❤️ I love FOSS and contribute where I can.
+Currently exploring computer vision, AI agents, and local deployment stuff.
 
-🖥️ Also into Linux ricing—customizing and refining my desktop for speed, minimalism, and aesthetics.
+### 🛠️ My "stack"
+
+- 🐍 **Python** For ML and AI experimentation
+- 🤖 **C/C++** When I need performance and low-level control
+- ☕ **Java** For larger systems and enterprise stuff
+- 🐚 **Shell** Automating everything I can
+- 🐧 **Linux** My daily driver, spend way too much time ricing it
+- 🎨 **Catppuccin** My color scheme of choice for everything
+
+I'm open to any tech that gets the job done. Big fan of open source and simple solutions - stupid people appreciate complexity, genius approaches simplicity.
 
 ---
 
