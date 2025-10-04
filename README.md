@@ -1,25 +1,25 @@
-## SherLock707
+## 🕵️ SherLock707
 
-### 🤔 Who am I?
+### ⚡ About Me
+Engineer who enjoys tackling complex problems and breaking them down into simple, workable solutions.  
+When I’m not coding, I’m usually deep into puzzle-platformers or exploring metroidvanias.  
 
-I like building AI systems and clever problem solving. When I'm not coding, you'll find me lost in environmental puzzle platformers and metroidvania games.
+### 🔬 Current Focus
+- Computer vision  
+- Generative models  
+- Agent systems & local-first AI deployment  
 
-### 🔨 What do I do?
+### 🛠️ Tech Stack
+- 🤖 **C/C++** — performance, low-level control, when speed matters  
+- ☕ **Java** — large-scale and enterprise-grade systems  
+- 🐍 **Python** — machine learning, prototyping, experiments  
+- 🐚 **Shell** — automation & tooling  
+- 🐧 **Linux** — daily driver, custom setups, ricing way too much  
+- 🎨 **Catppuccin** — my universal color scheme  
 
-Been working with computer vision, generative models, and agent systems. I build things from scratch when I can, mostly because I want to understand how they actually work.
-
-Currently exploring computer vision, AI agents, and local deployment stuff.
-
-### 🛠️ My "stack"
-
-- 🐍 **Python** For ML and AI experimentation
-- 🤖 **C/C++** When I need performance and low-level control
-- ☕ **Java** For larger systems and enterprise stuff
-- 🐚 **Shell** Automating everything I can
-- 🐧 **Linux** My daily driver, spend way too much time ricing it
-- 🎨 **Catppuccin** My color scheme of choice for everything
-
-I'm open to any tech that gets the job done. Big fan of open source and simple solutions - stupid people appreciate complexity, genius approaches simplicity.
+### 💡 Philosophy
+Problem solving drives everything I do.  
+I prefer simple, open, and practical systems over unnecessary complexity.  
 
 ---
 
